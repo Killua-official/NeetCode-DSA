@@ -5,8 +5,6 @@ Each solution includes clean code, brief comments, and tests written with **JUni
 
 The goal of this project is to practice data structures and algorithms in a structured, testable, and scalable way.
 
----
-
 ## What's Included?
 
 -  Java code written with focus on readability
@@ -15,7 +13,6 @@ The goal of this project is to practice data structures and algorithms in a stru
 -  Maven-based project (standard Java structure)
 -  No `main()` methods — all executions are done through tests
 
----
 
 ## How to Run Tests?
 
