@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class MyLinkedListTest {
 
     @Test
-    void leetCodeExampleTest() {
+    void MyLinkedList_Test() {
         MyLinkedList myLinkedList = new MyLinkedList();
         myLinkedList.addAtHead(1);              // [1]
         myLinkedList.addAtTail(3);              // [1, 3]
