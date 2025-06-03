@@ -2,6 +2,13 @@ package queue;
 
 import java.util.*;
 
+/**
+ * LeetCode #1700 - https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+ *
+ * Count the number of students who are unable to eat lunch
+ * based on their preferences for sandwiches.
+ */
+
 public class CountStudents {
     public int countStudents(int[] students, int[] sandwiches) {
         Queue<Integer> studentQueue = new LinkedList<>();
