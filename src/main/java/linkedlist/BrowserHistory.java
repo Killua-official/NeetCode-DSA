@@ -2,6 +2,13 @@ package linkedlist;
 
 import java.util.ArrayList;
 
+/**
+ * LeetCode #1472 - https://leetcode.com/problems/design-browser-history/
+ *
+ * Design a browser history that supports visiting new URLs, going back to previous URLs,
+ * and going forward to future URLs.
+ */
+
 public class BrowserHistory {
     private ArrayList<String> history;
     private int currentIndex;
