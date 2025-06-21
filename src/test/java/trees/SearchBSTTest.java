@@ -1,4 +1,4 @@
-package searching;
+package trees;
 
 public class SearchBSTTest {
     public static void main(String[] args) {

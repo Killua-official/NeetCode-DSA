@@ -1,4 +1,4 @@
-package searching;
+package trees;
 
 public class SearchBST {
     public TreeNode searchBST(TreeNode root, int val) {

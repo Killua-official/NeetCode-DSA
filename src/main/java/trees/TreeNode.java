@@ -1,4 +1,4 @@
-package searching;
+package trees;
 
 public class TreeNode {
     int val;
